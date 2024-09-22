@@ -7,3 +7,8 @@ Sabi sa tutorial I should describe what I typed sa header pero like wala naman a
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+Tasklist for this Schoolyear
+- [ ] Ma-crushback ng classmate
+- [ ] Makatabi siya sa Field Trip
+- [ ] Maging Honors for all Semesters
